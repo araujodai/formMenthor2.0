@@ -20,4 +20,5 @@ Clique <a href="https://araujodai.github.io/formMenthor2.0/">Aqui</a> para visua
 
 Escaneie o QR code e visualize no seu celular:
 
-<img height="300" width="300" src="https://user-images.githubusercontent.com/101216880/193945103-fae3b42e-e97b-4d6b-b4a1-2c8622f6c247.svg">
+<img height="300" width="300" src="https://user-images.githubusercontent.com/101216880/193945559-99451118-b74d-4d3d-b394-c25ec1e5d270.png">
+
