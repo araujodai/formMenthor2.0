@@ -1,7 +1,7 @@
 # Rocket.sect
 
-Segundo desafio proposto durante o Stage 03 da trilha Explorer da Rocketseat.
-O desafio consiste em reproduzir o layout de um formulário de mentoria de acordo com o layout disponibilizado pela Rocketseat.
+Segundo desafio proposto durante o Stage 03 da trilha Explorer com o layout disponibilizado pela Rocketseat.
+O desafio consiste em reproduzir o layout de um formulário de mentoria, projeto responsivo.
 
 ## Techs
 
@@ -10,14 +10,14 @@ O desafio consiste em reproduzir o layout de um formulário de mentoria de acord
 
 ## Layout
 
-Abaixo imagem do layout disponibilizado no Figma:
+Abaixo imagem do layout no Figma:
 
-<img width="320" alt="image" src="https://user-images.githubusercontent.com/101216880/193941002-2f04c185-75bf-46b4-ae40-af812f8d0711.png">
+<img width="413" alt="image" src="https://user-images.githubusercontent.com/101216880/193944383-af0d20cf-aa7a-4584-81f8-0d5eede1749f.png">
 
-Clique <a href="https://araujodai.github.io/formulary/">Aqui</a> para visualizar a publicação do projeto.
+Clique <a href="https://araujodai.github.io/formMenthor2.0/">Aqui</a> para visualizar a publicação do projeto.
 
 ### Ou
 
 Escaneie o QR code e visualize no seu celular:
 
-<img height="300" width="300" src="https://user-images.githubusercontent.com/101216880/193940142-bd625346-6f27-476d-8e19-6fca0c2d9c8b.svg">
+<img height="300" width="300" src="">
