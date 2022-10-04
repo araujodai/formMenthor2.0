@@ -1,7 +1,7 @@
-# Rocket.sect
+# Formulário de avaliação
 
 Segundo desafio proposto durante o Stage 03 da trilha Explorer com o layout disponibilizado pela Rocketseat.
-O desafio consiste em reproduzir o layout de um formulário de mentoria, projeto responsivo.
+O desafio consiste em reproduzir o layout de um formulário de avaliação de mentoria, projeto responsivo.
 
 ## Techs
 
@@ -20,4 +20,4 @@ Clique <a href="https://araujodai.github.io/formMenthor2.0/">Aqui</a> para visua
 
 Escaneie o QR code e visualize no seu celular:
 
-<img height="300" width="300" src="">
+<img height="300" width="300" src="https://user-images.githubusercontent.com/101216880/193945103-fae3b42e-e97b-4d6b-b4a1-2c8622f6c247.svg">
